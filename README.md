@@ -1,8 +1,5 @@
 ### Step by step goes a long way.
 
-<!--
-**kimlia545/kimlia545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I’m Lia
 I am a Artificial Intelligence developer and data scientist 
 
@@ -17,3 +14,8 @@ I am a Artificial Intelligence developer and data scientist
 - Front-end technologies such as Html, CSS, Java Script, etc
 
 - 💬 How to reach me: kimlia545@gmail.com
+
+<!--
+**kimlia545/kimlia545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
