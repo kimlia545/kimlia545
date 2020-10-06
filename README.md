@@ -1,7 +1,7 @@
 ### Step by step goes a long way.
 
-# Hi, I’m Lia
-I am a Artificial Intelligence developer and data scientist 
+# Hi, I’m Lia ✨
+I am a artificial intelligence developer and data scientist 
 
 ## Experiences 
 - Java Developer Training Course 6months
