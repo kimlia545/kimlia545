@@ -4,8 +4,8 @@
 I am a artificial intelligence developer and data scientist 
 
 ## Experiences 
-- Java Developer Training Course 6months
-- AI Developer Training Course 6months
+- Java Developer Training Course 6 months
+- AI Developer Training Course 6 months
 
 ## Skills
 - Machine Learning and Deep Learning(Tensor Flow, Keras, Pytorch)
