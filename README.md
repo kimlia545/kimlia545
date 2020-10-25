@@ -4,12 +4,14 @@
 I am a artificial intelligence developer and data scientist 
 
 ## Experiences 
-- Java Developer Training Course 6 months
-- AI Developer Training Course 6 months
+- Java Developer Training Course 6 months (800H)
+- AI Developer Training Course 6 months (900H)
+- Visual Perception (OpenCV for python3) Course 2 months (160H)
 
 ## Skills
 - Machine Learning and Deep Learning(Tensor Flow, Keras, Pytorch)
 - Data Analysis and Visualization (Python, R, Web Crawling)
+- OpenCV
 - Back-end (Spring Framework)
 - Front-end technologies such as Html, CSS, Java Script, etc
 
