@@ -7,6 +7,7 @@ I am a artificial intelligence developer and data scientist
 - Java Developer Training Course 6 months (800H)
 - AI Developer Training Course 6 months (900H)
 - Visual Perception (OpenCV for python3) Course 2 months (160H)
+- AWS Cloud Practitioner Essential Course (10H)
 
 ## Skills
 - Machine Learning and Deep Learning(Tensor Flow, Keras, Pytorch)
