@@ -15,6 +15,7 @@ I am a artificial intelligence developer and data scientist
 - OpenCV
 - Back-end (Spring Framework)
 - Front-end technologies such as Html, CSS, Java Script, etc
+- OCR (Optical character recognition)
 
 - 💬 How to reach me: kimlia545@gmail.com
 
