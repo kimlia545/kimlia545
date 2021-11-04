@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYEOEUN%20KIM&animation=fadeIn&fontSize=90&animation=d6ace6)
+
 ### Step by step goes a long way.
 
 # Hi, I’m Lia ✨
@@ -7,7 +9,7 @@ I am a artificial intelligence developer(Especially Computer Vision) and data sc
 - Java Developer Training Course 6 months (800H)
 - AI Developer Training Course 6 months (900H)
 - Computer Vision (OpenCV for python3) Course 2 months (160H)
-- Computer Vision Project Development Process (Classification, Learning Technique, Detection, Segmentation, AE, VAE, GAN) Course 2 months (160H)
+- Computer Vision Project Development Process (Classification, Detection, Segmentation, GAN) Course 2 months (160H)
 - AWS Cloud Practitioner Essential Course (10H)
 
 ## Skills
