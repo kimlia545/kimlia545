@@ -20,7 +20,7 @@ I am a artificial intelligence developer(Especially Computer Vision) and data sc
 - Front-end technologies such as Html, CSS, Java Script, etc
 - OCR (Optical character recognition)
 
-- 💬 How to reach me: kimlia545@gmail.com
+💬 How to reach me: kimlia545@gmail.com
 
 <!--
 **kimlia545/kimlia545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
