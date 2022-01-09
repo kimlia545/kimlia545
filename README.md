@@ -35,7 +35,9 @@ I am a artificial intelligence developer(Especially Computer Vision)
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   
-
+## :musical_note: GitHub stats
+[![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimlia545&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  
 💬 Ask me about anything, I am happy to help
 <br>
 📫 How to reach me: kimlia545@gmail.com
