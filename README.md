@@ -4,7 +4,7 @@
 
 ### :christmas_tree: About me :christmas_tree:
 - 🌱 I’m currently learning Data Structures and Algorithms
-- ⚡ I’m interesting in intelligence developer(Especially Computer Vision)
+- ⚡ I’m interesting in Deep Learning(Especially Computer Vision)
 - ❤️ I love opensource communities.
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryeoeun">
