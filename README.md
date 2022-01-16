@@ -5,9 +5,9 @@
 ### :christmas_tree: About me :christmas_tree:
 - 🌱 I’m currently learning Data Structures and Algorithms
 - ⚡ I’m interesting in Deep Learning(Especially Computer Vision)
-- ❤️ I love opensource communities.
+- ❤️ I love opensource communities
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryeoeun">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryeoeun"> -->
 
 ### :birthday: Experiences :birthday:
 - Java Developer Training Course 6 months (800H)
